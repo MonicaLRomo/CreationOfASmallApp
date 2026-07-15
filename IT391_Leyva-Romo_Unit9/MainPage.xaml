@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IT391_Leyva_Romo_Unit9.MainPage">
+
+    <StackLayout>
+        <Button Text="First Click Me!" Clicked="Button_Click" FontSize="Large" Padding="2" Margin="2,0,0,0"/>
+        <Label Text="" TextColor="Coral" x:Name="OutputLabel" FontSize="30"></Label>
+        <Button Text="Next, Click Me for a fun image!" Clicked="ButtonClick" FontSize="Large"/>
+       
+        <Image x:Name="imgLogo" HeightRequest="400" WidthRequest="400"></Image>
+        
+        <Button Text="Click me for a message!" Clicked="ThirdButtonClick" FontSize="Large"/>
+        <Label Text="" TextColor="MediumPurple" x:Name="MessageLabel" FontSize="35"/>
+
+    </StackLayout>
+    
+
+</ContentPage>
