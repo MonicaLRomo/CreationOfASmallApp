@@ -1,5 +1,8 @@
-# CreationOfASmallApp
+# Creation Of A Small App
 A simple, interactive cross-platform mobile application that demonstrates dynamic UI updates based on user interaction. The application allows users to step through a sequence of button clicks to reveal a personalized message and rich visual content.
+
+# Creation of App demonstrates:
+ Requirements gathering, UI/UX workflow testing, and platform troubleshooting.
 
 # IDE 
 Visual Studio 2022
