@@ -12,7 +12,7 @@ C#
 1. Open project folder in Visual Studio 2022.
 2. Ensure you have the .NET Multi-platform App UI development workload installed.
 3. Select your target framework/emulator from the top toolbar dropdown(e.g., Android Emulator 'pixel_7_-api_33').
-4. Press F5 of click the *START* to build and launch the application.
+4. Press F5 or click the *START* to build and launch the application.
 
 # Screenshots of App on Android
 
